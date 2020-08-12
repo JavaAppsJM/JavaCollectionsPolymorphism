@@ -1,4 +1,4 @@
-package be.vdab.collections;
+package be.vdab.collectionshfdstk20;
 
 import java.io.Serializable;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package be.vdab.collections;
+package be.vdab.collectionshfdstk20;
 
 public class Circle extends GeometricObject{
     private double radius;

@@ -1,6 +1,5 @@
-package be.vdab.collections;
+package be.vdab.collectionshfdstk20;
 
-import java.awt.*;
 import java.util.Comparator;
 
 import static java.lang.Math.max;

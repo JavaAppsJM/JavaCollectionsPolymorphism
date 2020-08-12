@@ -1,4 +1,4 @@
-package be.vdab.collections;
+package be.vdab.collectionshfdstk20;
 
 public class Rectangle extends GeometricObject{
     private double width;
