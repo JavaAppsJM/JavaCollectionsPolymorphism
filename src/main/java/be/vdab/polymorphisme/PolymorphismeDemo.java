@@ -1,7 +1,7 @@
 package be.vdab.polymorphisme;
 
 import be.vdab.domain.Circle;
-import be.vdab.domain.Color;
+import be.vdab.enums.Color;
 import be.vdab.domain.GeometricObject;
 import be.vdab.domain.Rectangle;
 

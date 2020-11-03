@@ -1,5 +1,7 @@
 package be.vdab.domain;
 
+import be.vdab.enums.Color;
+
 public class Circle extends GeometricObject {
     private double radius;
     private final static double PI = 3.14;

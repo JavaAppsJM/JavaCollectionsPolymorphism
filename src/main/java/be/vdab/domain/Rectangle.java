@@ -1,6 +1,6 @@
 package be.vdab.domain;
 
-import be.vdab.domain.GeometricObject;
+import be.vdab.enums.Color;
 
 public class Rectangle extends GeometricObject {
     private double width;

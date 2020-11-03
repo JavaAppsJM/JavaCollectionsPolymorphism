@@ -1,5 +1,7 @@
 package be.vdab.domain;
 
+import be.vdab.enums.Color;
+
 import java.util.Date;
 
 public abstract class GeometricObject {
